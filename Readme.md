@@ -16,17 +16,11 @@
 </div>
 
 <br>
-
-      
-<br>
 <br>
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=jokita06&show_icons=true&count_private=true&rank_icon=github&theme=city_lights&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokita06&layout=compact&font=Iosevka&langs_count=16&theme=city_lights"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jokita06&theme=city_lights"/>
 </div>
 
 <br>
@@ -58,3 +52,4 @@
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
+
