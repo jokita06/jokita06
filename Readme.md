@@ -1,62 +1,60 @@
-<!-- Título principal com efeito de digitação -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hello!+My+name+is+Joyce+Kelly&color=38BDF8" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4682B4"/>
 
 <br>
 
-<!-- Divisor com degradê -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=4&section=footer&reversal=true" width="100%"/>
-</p>
-
-<br><br>
-
-<!-- GIF de introdução -->
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTF6cThrYmZ5ZDV2YXd3eDZib2gwaHhueXdoNnZjZXBidjR6Ym5wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YfhV0BoBTtX1f7geM4/giphy.gif" width="800px" alt="Minecraft adventure">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>Joyce Kelly</b>
+  </samp>
 </div>
 
-<br><br>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4682B4&width=900&size=22&center=true&pause=100&lines=I'm+a+student+of+Systems+Development;;Be+welcome!" alt="Typing SVG"/>
 
-<!-- Estatísticas do GitHub -->
-<h2 align="center">Estatísticas do GitHub</h2>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jokita06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jokita06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
-<br><br>
+<br>
 
-<!-- Tecnologias que usa -->
-<h2 align="center">Tecnologias e Ferramentas</h2>
-
+      
+<br>
+<br>
+      
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=jokita06&show_icons=true&count_private=true&rank_icon=github&theme=city_lights&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokita06&layout=compact&font=Iosevka&langs_count=16&theme=city_lights"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jokita06&theme=city_lights"/>
 </div>
 
-<!-- Divisor com degradê -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:3B82F6&height=4&section=footer&reversal=true" width="100%"/>
+<br>
 
-</p>
+<div align="center" style="display: inline_block"><br>
+  <!-- Backend -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  
+  <!-- Frontend -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  
+  <!-- Banco de Dados -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+</div>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=100&section=footer"/>
