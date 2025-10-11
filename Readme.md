@@ -47,3 +47,11 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQ4Nml5eG02cThjcDM0aGtudHZpMDdrMDV4cnI1bnc3OGZzYzhxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLzvuV6rmpdeM/giphy.gif" width="450" /></p> 
+</div>
